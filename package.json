@@ -13,5 +13,8 @@
     "lodash": "^4.17.14",
     "request": "^2.88.0",
     "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }

@@ -4,3 +4,4 @@ playground
 app.js
 geocode
 weather
+.env
